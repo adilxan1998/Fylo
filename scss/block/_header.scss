@@ -1,0 +1,22 @@
+.header {
+  background-color: #1b2330ff;
+}
+
+.header__header-immer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 70px;
+}
+
+.header__list {
+  width: 295px;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.header__link {
+  text-decoration: none;
+  color: #fff;
+}

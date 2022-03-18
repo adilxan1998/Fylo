@@ -1,0 +1,23 @@
+.information {
+  padding-top: 220px;
+  background-color: #1b2330ff;
+}
+
+.information__list {
+  width: 880px;
+  display: flex;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.information__item {
+  width: 400px;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 50px;
+}

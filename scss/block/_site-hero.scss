@@ -1,0 +1,40 @@
+.site-hero {
+  padding-top: 70px;
+  background-color: #1b2330ff;
+}
+
+.site-hero__inner {
+  width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.site-hero__title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.site-hero__text {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.site-hero__button {
+  width: 280px;
+  height: 56px;
+  font-size: 16px;
+  display: flow-root;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+  border-radius: 28px;
+  background-color: #44b6d1ff;
+  color: #fff;
+}
